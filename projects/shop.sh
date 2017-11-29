@@ -2,8 +2,8 @@
  
 WEB_PATH='/home/wwwroot/shop/'
 WEB_PATH_CLIENT='/home/wwwroot/shop/client'
-WEB_USER='root'
-WEB_USERGROUP='root'
+WEB_USER='www'
+WEB_USERGROUP='www'
 # we can do 
 echo "Start deployment htt.itnote.cn"
 cd $WEB_PATH
